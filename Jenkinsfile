@@ -3,7 +3,7 @@
 //       '[VARIABLE]' with actual values 
 //        e.g https://github.com/vanaparthymounika/events-app-web-server might become https://github.com/MyName/external.git
 // variables:
-//      https://github.com/vanaparthymounika/events-app-web-server
+//      https://github.com/vanaparthymounika/events-app-api-server
 //      main
 //      dtc-feb22-u310
 //     app-server
